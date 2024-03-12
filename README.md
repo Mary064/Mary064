@@ -9,9 +9,9 @@ Hi, my name is Alexandra, I am a trans girl, my long journey in IT started with 
 </div>
 <div>
   <h2>⚙️ Stack</h2>
-  <p align="center">
+  <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,figma" />
   </a>
 </p>
 </div>
