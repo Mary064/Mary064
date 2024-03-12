@@ -19,7 +19,7 @@ Hi, my name is Alexandra, 19 age, I am a trans girl, my long journey in IT start
   <h2>🎓 Stats</h2>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Mary064&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=Mary064&show_icons=true&theme=synthwave"
     media="(prefers-color-scheme: dark)"
   />
   <source
