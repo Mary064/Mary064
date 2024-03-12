@@ -6,8 +6,12 @@
 <div>
   <h2>🌸 About me</h2>
 Hi, my name is Alexandra, I am a trans girl, my long journey in IT started with programming, Python was my first and one of my favorite programming languages to this day, well after Rust of course <3, over time I tried my hand at cybersecurity, SEO, Blue/Red team, Reverse engineering and so on, now I am developing in the direction of the Web, I love this area and everything related to it, below is my stack and all the information you need, Thanks
-
-
-
 </div>
-
+<div>
+  <h2>⚙️ Stack</h2>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+</div>
