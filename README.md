@@ -11,7 +11,7 @@ Hi, my name is Alexandra, I am a trans girl, my long journey in IT started with 
   <h2>⚙️ Stack</h2>
   <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,rust,python,robloxstudio,sass,git,react,figma,linux,kali," />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,rust,c,python,robloxstudio,sass,git,react,figma,linux,kali," />
   </a>
 </p>
 </div>
