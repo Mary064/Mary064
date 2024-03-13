@@ -32,7 +32,7 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mary666"/>
+ 
 </picture>
-
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mary666"/>
 </div>
