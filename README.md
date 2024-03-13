@@ -1,5 +1,5 @@
 <h1 align="center">❣️ 𝐻𝒾 • 𝒾'𝓂 • 𝒜𝓁𝑒𝓍𝒶𝓃𝒹𝓇𝒶.</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rowdies&size=22&pause=1000&color=FF96EB&center=true&vCenter=true&random=false&width=435&lines=Front-End;CyberSecurity" alt="Typing SVG" /></a>
+<div><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rowdies&size=22&pause=1000&color=FFB4F8&center=true&vCenter=true&random=false&width=435&lines=Front-End;CyberSecurity" alt="Typing SVG" /></a></div>
 <div>
   <img src="https://github.com/Mary064/Mary064/blob/main/headerorig.png">  
 <div/>
