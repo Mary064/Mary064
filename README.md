@@ -9,7 +9,7 @@ Hi, my name is Alexandra, from Ukraine 🇺🇦 19 age, I am a trans girl, my lo
 </div>
   <br>
     <br>
-    <br>
+
 <div>
   <h2>⚙️ 𝒮𝓉𝒶𝒸𝓀</h2>
   <p>
@@ -18,6 +18,8 @@ Hi, my name is Alexandra, from Ukraine 🇺🇦 19 age, I am a trans girl, my lo
   </a>
 </p>
 </div>
+  <br>
+    <br>
 <div>
   <h2>🎓 𝒮𝓉𝒶𝓉𝓈</h2>
 <picture>
