@@ -27,7 +27,7 @@
      <img height=290 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Mary666/">
   </a>
 <a>
-  <img height=290 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie"/>
+  <img height=290 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mary064&layout=pie"/>
 </a>
 </div>
 </div>
