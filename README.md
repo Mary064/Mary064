@@ -1,4 +1,4 @@
-<h1 align="center">❣️ 𝐻𝒾 𝒾'𝓂 • 𝒜𝓁𝑒𝓍𝒶𝓃𝒹𝓇𝒶.</h1>
+<h1 align="center">❣️ 𝐻𝒾  𝒾'𝓂 • 𝒜𝓁𝑒𝓍𝒶𝓃𝒹𝓇𝒶.</h1>
 <div>
   <img src="https://github.com/Mary064/Mary064/blob/main/headerorig.png">  
 <div/>
