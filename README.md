@@ -34,6 +34,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
   
 </picture>
-<img src='https://github-readme-stats.vercel.app/api/wakatime?username=Mary666
-'>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mary666"/>
 </div>
