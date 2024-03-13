@@ -22,6 +22,8 @@
     <br>
 <div>
   <h2>🎓 𝒮𝓉𝒶𝓉𝓈</h2>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mary666/">
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Mary064&show_icons=true&theme=synthwave"
