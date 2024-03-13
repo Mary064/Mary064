@@ -37,7 +37,4 @@
 <a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie"/>
 </a>
-<a> 
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mary666"/>
-</a>
 </div>
