@@ -24,10 +24,10 @@
   <h2>🎓 𝒮𝓉𝒶𝓉𝓈</h2>
 <div>
     <a>
-     <img height=287 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Mary666/">
+     <img height=290 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Mary666/">
   </a>
 <a>
-  <img height=287 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie"/>
+  <img height=290 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie"/>
 </a>
 </div>
 </div>
