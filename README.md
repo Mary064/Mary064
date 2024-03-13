@@ -23,7 +23,6 @@
 <div>
   <h2>🎓 𝒮𝓉𝒶𝓉𝓈</h2>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mary666/">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 <a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie"/>
 </a>
