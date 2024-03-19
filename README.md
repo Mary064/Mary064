@@ -15,7 +15,7 @@
   <h2>⚙️ 𝒮𝓉𝒶𝒸𝓀</h2>
   <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,rust,c,python,ruby,robloxstudio,sass,git,react,bash,figma,linux,windows,kali,vscode,webstorm,pycharm,vite" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,rust,c,python,ruby,robloxstudio,sass,git,react,bash,figma,linux,windows,kali,vscode,webstorm,pycharm,vite,tailwind" />
   </a>
 </p>
 </div>
